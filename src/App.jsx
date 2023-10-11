@@ -1,5 +1,3 @@
-
-
 import PockemonCard from "./components/PockemonCard"
 
 function App() {
